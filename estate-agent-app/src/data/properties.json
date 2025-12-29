@@ -1,0 +1,88 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Three bedroom semi-detached family home with garden and conservatory.",
+      "location": "Petts Wood Road, Orpington BR5",
+      "postcode": "BR5",
+      "picture": "images/prop1pic1small.jpg",
+      "added": { "day": 12, "month": "October", "year": 2022 }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Leasehold",
+      "description": "Modern two bedroom garden flat with open-plan living area.",
+      "location": "Crofton Road, Orpington BR6",
+      "postcode": "BR6",
+      "picture": "images/prop2pic1small.jpg",
+      "added": { "day": 14, "month": "September", "year": 2022 }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 950000,
+      "tenure": "Freehold",
+      "description": "Spacious four bedroom detached house with driveway and garage.",
+      "location": "Chislehurst Road, Bromley BR1",
+      "postcode": "BR1",
+      "picture": "images/prop3.jpg",
+      "added": { "day": 5, "month": "January", "year": 2023 }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 275000,
+      "tenure": "Leasehold",
+      "description": "One bedroom apartment ideal for first-time buyers.",
+      "location": "Camden High Street, London NW1",
+      "postcode": "NW1",
+      "picture": "images/prop4.jpg",
+      "added": { "day": 20, "month": "March", "year": 2023 }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 5,
+      "price": 1250000,
+      "tenure": "Freehold",
+      "description": "Luxury five bedroom home with landscaped garden.",
+      "location": "Elmstead Lane, Chislehurst BR7",
+      "postcode": "BR7",
+      "picture": "images/prop5.jpg",
+      "added": { "day": 10, "month": "May", "year": 2023 }
+    },
+    {
+      "id": "prop6",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 550000,
+      "tenure": "Leasehold",
+      "description": "Three bedroom penthouse flat with balcony.",
+      "location": "Greenwich High Road, London SE10",
+      "postcode": "SE10",
+      "picture": "images/prop6.jpg",
+      "added": { "day": 18, "month": "July", "year": 2023 }
+    },
+    {
+      "id": "prop7",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 450000,
+      "tenure": "Freehold",
+      "description": "Two bedroom cottage close to transport links.",
+      "location": "Lewisham Way, London SE4",
+      "postcode": "SE4",
+      "picture": "images/prop7.jpg",
+      "added": { "day": 2, "month": "August", "year": 2023 }
+    }
+  ]
+}
