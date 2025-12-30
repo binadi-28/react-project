@@ -3,177 +3,118 @@
     {
       "id": "prop1",
       "type": "House",
-      "bedrooms": 3,
       "price": 750000,
-      "tenure": "Freehold",
-      "title": "Modern Family Home in Petts Wood",
-      "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland.",
-      "fullDescription": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
-      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "bedrooms": 3,
       "postcode": "BR5",
-      "images": [
-        "images/prop1pic1.jpg",
-        "images/prop1pic2.jpg",
-        "images/prop1pic3.jpg",
-        "images/prop1pic4.jpg",
-        "images/prop1pic5.jpg",
-        "images/prop1pic6.jpg"
-      ],
-      "thumbnail": "images/prop1pic1small.jpg",
       "added": "2022-10-12",
-      "floorPlan": "images/prop1-floorplan.jpg",
-      "latitude": 51.3887,
-      "longitude": 0.0749
+      "images": [
+        "/images/prop1/1.jpg",
+        "/images/prop1/2.jpg",
+        "/images/prop1/3.jpg",
+        "/images/prop1/4.jpg",
+        "/images/prop1/5.jpg",
+        "/images/prop1/6.jpg"
+      ],
+      "description": "Three bedroom family house in Petts Wood",
+      "floorPlan": "/images/prop1/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR5&output=embed"
     },
     {
       "id": "prop2",
-      "type": "Flat",
+      "type": "Apartment",
+      "price": 450000,
       "bedrooms": 2,
-      "price": 399995,
-      "tenure": "Freehold",
-      "title": "Modern Garden Flat in Orpington",
-      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat.",
-      "fullDescription": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee...",
-      "location": "Crofton Road Orpington BR6",
-      "postcode": "BR6",
+      "postcode": "BR4",
+      "added": "2023-01-05",
       "images": [
-        "images/prop2pic1.jpg",
-        "images/prop2pic2.jpg",
-        "images/prop2pic3.jpg",
-        "images/prop2pic4.jpg",
-        "images/prop2pic5.jpg",
-        "images/prop2pic6.jpg"
+        "/images/prop2/1.jpg",
+        "/images/prop2/2.jpg",
+        "/images/prop2/3.jpg"
       ],
-      "thumbnail": "images/prop2pic1small.jpg",
-      "added": "2022-09-14",
-      "floorPlan": "images/prop2-floorplan.jpg",
-      "latitude": 51.3756,
-      "longitude": 0.1021
+      "description": "Modern two-bedroom apartment near Bromley",
+      "floorPlan": "/images/prop2/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR4&output=embed"
     },
     {
       "id": "prop3",
-      "type": "House",
-      "bedrooms": 4,
-      "price": 950000,
-      "tenure": "Freehold",
-      "title": "Spacious Detached House in NW1",
-      "description": "Beautiful four-bedroom detached house with modern amenities and large garden.",
-      "fullDescription": "Beautiful four-bedroom detached house with modern amenities and large garden. Features include a spacious living room, modern kitchen with island, dining area, study, and utility room. The first floor boasts four generous bedrooms with the master having an en-suite bathroom. The property also includes a double garage and a beautifully landscaped rear garden.",
-      "location": "Camden Street, London NW1",
-      "postcode": "NW1",
+      "type": "Bungalow",
+      "price": 650000,
+      "bedrooms": 3,
+      "postcode": "BR3",
+      "added": "2023-03-15",
       "images": [
-        "images/prop3pic1.jpg",
-        "images/prop3pic2.jpg",
-        "images/prop3pic3.jpg",
-        "images/prop3pic4.jpg",
-        "images/prop3pic5.jpg",
-        "images/prop3pic6.jpg"
+        "/images/prop3/1.jpg",
+        "/images/prop3/2.jpg"
       ],
-      "thumbnail": "images/prop3pic1small.jpg",
-      "added": "2023-01-15",
-      "floorPlan": "images/prop3-floorplan.jpg",
-      "latitude": 51.5322,
-      "longitude": -0.1393
+      "description": "Spacious bungalow with garden in Beckenham",
+      "floorPlan": "/images/prop3/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR3&output=embed"
     },
     {
       "id": "prop4",
-      "type": "Flat",
-      "bedrooms": 1,
-      "price": 275000,
-      "tenure": "Leasehold",
-      "title": "Modern Studio Flat in BR1",
-      "description": "Contemporary studio flat in a newly developed building with excellent transport links.",
-      "fullDescription": "Contemporary studio flat in a newly developed building with excellent transport links. Features include an open-plan living area with fitted kitchen, modern bathroom, and large windows providing plenty of natural light. The building offers secure entry, lift access, and is located close to shops, restaurants, and public transport.",
-      "location": "High Street, Bromley BR1",
-      "postcode": "BR1",
+      "type": "House",
+      "price": 820000,
+      "bedrooms": 4,
+      "postcode": "BR2",
+      "added": "2023-05-20",
       "images": [
-        "images/prop4pic1.jpg",
-        "images/prop4pic2.jpg",
-        "images/prop4pic3.jpg",
-        "images/prop4pic4.jpg",
-        "images/prop4pic5.jpg",
-        "images/prop4pic6.jpg"
+        "/images/prop4/1.jpg",
+        "/images/prop4/2.jpg",
+        "/images/prop4/3.jpg"
       ],
-      "thumbnail": "images/prop4pic1small.jpg",
-      "added": "2023-02-10",
-      "floorPlan": "images/prop4-floorplan.jpg",
-      "latitude": 51.4065,
-      "longitude": 0.0152
+      "description": "Four-bedroom family house with garage in Orpington",
+      "floorPlan": "/images/prop4/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR2&output=embed"
     },
     {
       "id": "prop5",
-      "type": "House",
-      "bedrooms": 5,
-      "price": 1250000,
-      "tenure": "Freehold",
-      "title": "Luxury Family Home with Pool",
-      "description": "Stunning five-bedroom family home with swimming pool and extensive gardens.",
-      "fullDescription": "Stunning five-bedroom family home with swimming pool and extensive gardens. This exceptional property features a grand entrance hall, formal living room, dining room, study, and a stunning open-plan kitchen/family room. The first floor offers five spacious bedrooms, including a master suite with dressing room and en-suite. Outside features include a heated swimming pool, patio area, and beautifully maintained gardens.",
-      "location": "The Avenue, Orpington BR6",
-      "postcode": "BR6",
+      "type": "Apartment",
+      "price": 380000,
+      "bedrooms": 1,
+      "postcode": "BR1",
+      "added": "2023-07-10",
       "images": [
-        "images/prop5pic1.jpg",
-        "images/prop5pic2.jpg",
-        "images/prop5pic3.jpg",
-        "images/prop5pic4.jpg",
-        "images/prop5pic5.jpg",
-        "images/prop5pic6.jpg"
+        "/images/prop5/1.jpg",
+        "/images/prop5/2.jpg"
       ],
-      "thumbnail": "images/prop5pic1small.jpg",
-      "added": "2023-03-05",
-      "floorPlan": "images/prop5-floorplan.jpg",
-      "latitude": 51.3823,
-      "longitude": 0.1078
+      "description": "Cozy one-bedroom apartment in Bromley town center",
+      "floorPlan": "/images/prop5/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR1&output=embed"
     },
     {
       "id": "prop6",
-      "type": "Flat",
-      "bedrooms": 3,
-      "price": 650000,
-      "tenure": "Leasehold",
-      "title": "Penthouse Apartment with Views",
-      "description": "Luxurious penthouse apartment with panoramic views and private balcony.",
-      "fullDescription": "Luxurious penthouse apartment with panoramic views and private balcony. This stunning property features an open-plan living area with floor-to-ceiling windows, a designer kitchen with high-end appliances, three double bedrooms (master with en-suite), and two additional bathrooms. The private balcony offers spectacular views and is perfect for entertaining.",
-      "location": "Riverside Drive, London NW1",
-      "postcode": "NW1",
+      "type": "House",
+      "price": 900000,
+      "bedrooms": 5,
+      "postcode": "BR6",
+      "added": "2023-08-01",
       "images": [
-        "images/prop6pic1.jpg",
-        "images/prop6pic2.jpg",
-        "images/prop6pic3.jpg",
-        "images/prop6pic4.jpg",
-        "images/prop6pic5.jpg",
-        "images/prop6pic6.jpg"
+        "/images/prop6/1.jpg",
+        "/images/prop6/2.jpg",
+        "/images/prop6/3.jpg"
       ],
-      "thumbnail": "images/prop6pic1small.jpg",
-      "added": "2023-04-20",
-      "floorPlan": "images/prop6-floorplan.jpg",
-      "latitude": 51.5287,
-      "longitude": -0.1282
+      "description": "Luxury five-bedroom house with pool in Keston",
+      "floorPlan": "/images/prop6/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR6&output=embed"
     },
     {
       "id": "prop7",
-      "type": "House",
+      "type": "Bungalow",
+      "price": 550000,
       "bedrooms": 2,
-      "price": 450000,
-      "tenure": "Freehold",
-      "title": "Cottage Style House in BR5",
-      "description": "Charming two-bedroom cottage with character features and private garden.",
-      "fullDescription": "Charming two-bedroom cottage with character features and private garden. This delightful property retains many original features including exposed beams and an open fireplace. It comprises a cozy living room, dining room, modern kitchen, two double bedrooms, and a family bathroom. The rear garden is fully enclosed and features a patio area and lawn.",
-      "location": "Village Way, Petts Wood BR5",
-      "postcode": "BR5",
+      "postcode": "BR7",
+      "added": "2023-09-12",
       "images": [
-        "images/prop7pic1.jpg",
-        "images/prop7pic2.jpg",
-        "images/prop7pic3.jpg",
-        "images/prop7pic4.jpg",
-        "images/prop7pic5.jpg",
-        "images/prop7pic6.jpg"
+        "/images/prop7/1.jpg",
+        "/images/prop7/2.jpg"
       ],
-      "thumbnail": "images/prop7pic1small.jpg",
-      "added": "2023-05-15",
-      "floorPlan": "images/prop7-floorplan.jpg",
-      "latitude": 51.3856,
-      "longitude": 0.0774
+      "description": "Two-bedroom bungalow with modern kitchen in Swanley",
+      "floorPlan": "/images/prop7/floorplan.jpg",
+      "mapUrl": "https://www.google.com/maps?q=BR7&output=embed"
     }
   ]
 }
+
+
+
+
