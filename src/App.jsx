@@ -1,9 +1,16 @@
+import { Routes, Route } from "react-router-dom";
+import SearchPage from "./pages/SearchPage";
+import PropertyPage from "./pages/PropertyPage";
+
 function App() {
   return (
-    <div>
-      <h1>Estate Agent SPA</h1>
-    </div>
+    <Routes>
+      <Route path="/" element={<SearchPage />} />
+      <Route path="/property/:id" element={<PropertyPage />} />
+    </Routes>
   );
 }
 
 export default App;
+
+
